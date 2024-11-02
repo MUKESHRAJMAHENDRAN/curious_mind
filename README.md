@@ -1,1 +1,1 @@
-# curious_mind
+# Curious_mind
